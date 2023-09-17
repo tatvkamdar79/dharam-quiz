@@ -1,0 +1,78 @@
+[
+    {
+        "e1": {
+            "qimg": "/quizz/T-1/Q1/Q.jpeg",
+            "aimg": "/quizz/T-1/Q1/A.jpeg",
+            "a": "जल मंदिर, पावापुरी, भगवान महावीर निर्वाण क्षेत्र"
+        },
+        "e2": {
+            "qimg": "/quizz/T-1/Q2/Q.jpeg",
+            "aimg": "/quizz/T-1/Q2/A.jpeg"
+        },
+        "m": {
+            "qimg": "/quizz/T-1/Q3/Q.jpeg",
+            "aimg": "/quizz/T-1/Q3/A.jpeg",
+            "a": "पूज्य गुरुदेव श्री की श्रवणबेलगोला की यात्रा"
+        },
+        "h": {
+            "qimg": "/quizz/T-1/Q4/Q.jpeg",
+            "aimg": "/quizz/T-1/Q4/A.jpeg",
+            "a": "पार्श्वनाथ मुनिराज पे कमठ के जीव का उपसर्ग"
+        }
+    },
+    {
+        "e1": {
+            "qimg": "/quizz/T-2/Q1/Q.jpeg",
+            "aimg": "/quizz/T-2/Q1/A.jpeg"
+        },
+        "e2": {
+            "qimg": "/quizz/T-2/Q2/Q.jpeg",
+            "aimg": "/quizz/T-2/Q2/A.jpeg"
+        },
+        "m": {
+            "qimg": "/quizz/T-2/Q3/Q.jpeg",
+            "aimg": "/quizz/T-2/Q3/A.jpeg"
+        },
+        "h": {
+            "qimg": "/quizz/T-2/Q4/Q.jpeg",
+            "aimg": "/quizz/T-2/Q4/A.jpeg"
+        }
+    },
+    {
+        "e1": {
+            "qimg": "/quizz/T-3/Q1/Q.jpeg",
+            "aimg": "/quizz/T-3/Q1/A.jpeg"
+        },
+        "e2": {
+            "qimg": "/quizz/T-3/Q2/Q.jpeg",
+            "aimg": "/quizz/T-3/Q2/A.jpeg"
+        },
+        "m": {
+            "qimg": "/quizz/T-3/Q3/Q.jpeg",
+            "aimg": "/quizz/T-3/Q3/A.jpeg"
+        },
+        "h": {
+            "qimg": "/quizz/T-3/Q4/Q.jpeg",
+            "aimg": "/quizz/T-3/Q4/A.jpeg"
+        }
+    },
+    {
+        "e1": {
+            "qimg": "/quizz/T-4/Q1/Q.jpeg",
+            "aimg": "/quizz/T-4/Q1/A.jpeg",
+            "a": "श्रेणिक राजा के द्वारा यशोधर मुनि पे मारा हुआ सांप डालते हुए उपसर्ग करना"
+        },
+        "e2": {
+            "qimg": "/quizz/T-4/Q2/Q.jpeg",
+            "aimg": "/quizz/T-4/Q2/A.jpeg"
+        },
+        "m": {
+            "qimg": "/quizz/T-4/Q3/Q.jpeg",
+            "aimg": "/quizz/T-4/Q3/A.jpeg"
+        },
+        "h": {
+            "qimg": "/quizz/T-4/Q4/Q.jpeg",
+            "aimg": "/quizz/T-4/Q4/A.jpeg"
+        }
+    }
+]
